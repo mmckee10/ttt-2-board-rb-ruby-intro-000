@@ -1,7 +1,5 @@
 # Define the variable board below.
-board
-board = Array.new
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board_ = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Position 1: Left
 row[0]
 # Position 2: Middle
