@@ -1,6 +1,5 @@
 # Define the variable board below.
-board = Array.board
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Position 1: Left
 row[0]
 # Position 2: Middle
